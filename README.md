@@ -78,7 +78,8 @@ Power BI, Excel
 
 ## Contact: :mailbox_with_mail:
 > 📢 I am open to data analytics and Power BI opportunities. Feel free to contact me!
-You can reach me via email: [monika.sobieszczyk@gmail.com](mailto:monika.sobieszczyk@gmail.com)  
-Connect with me on LinkedIn: [Monika LinkedIn](https://www.linkedin.com/in/monika-sobieszczyk-5ba0a871/)
+
+Email: [monika.sobieszczyk@gmail.com](mailto:monika.sobieszczyk@gmail.com)  
+LinkedIn: [Monika LinkedIn](https://www.linkedin.com/in/monika-sobieszczyk-5ba0a871/)
 
 

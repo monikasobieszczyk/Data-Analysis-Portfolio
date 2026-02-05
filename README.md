@@ -35,7 +35,7 @@ other data analysis tools.
 
 ### (I) Power BI
 
-### Power BI Project 1: Car Parts EU – export analysis
+### >> Power BI Project 1: Car Parts EU – export analysis
 #### Data source:
 Simulated dataset for CarParts EU (2022-2025).
 
@@ -49,12 +49,12 @@ The data set includes:
 - Create a tab for Higher Management to compare two Spanish brokers, enabling decisions on whether the smaller broker from Barcelona should take over the services in Madrid, or if the Madrid services should remain with the larger European broker.
 - Create a tab for Lower-level Management to monitor standard metrics (WBR, MBR) across all export countries.
 
-### Power BI Project 2: The Berka dataset analysis
+### >> Power BI Project 2: The Berka dataset analysis
 #### Data Source
 [Berka Dataset on Kaggle](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset?resource=download)
 
 #### Dataset Documentation
-[Documentation](https://webpages.charlotte.edu/mirsad/itcs6265/group1/index.html)#
+[Documentation](https://webpages.charlotte.edu/mirsad/itcs6265/group1/index.html)
 #### Project Goal:
 The Berka dataset, from the 1999 PKDD Discovery Challenge, contains information on clients, accounts, and transactions of a Czech bank. 
 The original task description aimed to help the bank improve services by identifying good clients (to offer additional services) and bad clients (to monitor to minimize losses). 

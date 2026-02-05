@@ -79,7 +79,7 @@ Following this goal, our project focused on analyzing bank data from different p
 Power BI, Excel
 
 #### Project Report 📄
-[Download PDF report](PowerBI_Project2_TheBerkaDataset)
+[Download PDF report](PowerBI_Project2_TheBerkaDataset.pdf)
 
 ## Contact: :mailbox_with_mail:
 > 📢 I am open to data analytics and Power BI opportunities. Feel free to contact me!

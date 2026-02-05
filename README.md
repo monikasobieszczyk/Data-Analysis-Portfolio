@@ -52,6 +52,9 @@ The data set includes:
 #### Tools / Skills:
 Power BI, Excel
 
+#### Project Report 📄
+[Download PDF report](projects/PowerBI_Project1_CarPartsEUanalysis.pdf)
+
 ### >> Power BI Project 2: The Berka dataset analysis
 #### Data Source
 [Berka Dataset on Kaggle](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset?resource=download)
@@ -75,6 +78,8 @@ Following this goal, our project focused on analyzing bank data from different p
 #### Tools / Skills:
 Power BI, Excel
 
+#### Project Report 📄
+[Download PDF report](projects/PowerBI_Project2_TheBerkaDataset)
 
 ## Contact: :mailbox_with_mail:
 > 📢 I am open to data analytics and Power BI opportunities. Feel free to contact me!

@@ -51,7 +51,7 @@ The data set includes:
 
 #### Tools / Skills:
 Power BI, Excel
----
+
 ### >> Power BI Project 2: The Berka dataset analysis
 #### Data Source
 [Berka Dataset on Kaggle](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset?resource=download)
@@ -77,4 +77,4 @@ Power BI, Excel
 
 
 ## Resume / CV : :page_facing_up:
-
+[Download my CV](D:\Praca & praktyki\CV i listy motywacyjne\- WYSŁANE APLIKACJE -\- 2026\- GitHub/CV - Monika Sobieszczyk (eng).pdf)

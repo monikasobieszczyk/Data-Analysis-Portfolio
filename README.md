@@ -1,5 +1,6 @@
 # Data-Analysis-Portfolio
 
+## About Me :wave:
 I am a motivated and detail-oriented professional transitioning into data analytics,
 with a background in customs operations and international business.
 
@@ -22,3 +23,20 @@ This portfolio showcases selected projects, with a primary focus on Power BI,
 reflecting my transition from Power BI user to junior Power BI developer.
 Over time, the portfolio will be expanded with additional projects in SQL and
 other data analysis tools.
+
+## Skills :hammer_and_wrench:
+
+- Excel (advanced data analysis)
+- Power BI (business user & junior development)
+- SQL (basic)
+- Python (basic)
+
+## Projects :bar_chart:
+
+### Project 1 – TBD
+
+### Project 2 – TBD
+
+
+## Resume / CV : :page_facing_up:
+

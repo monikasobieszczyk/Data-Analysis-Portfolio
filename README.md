@@ -76,5 +76,9 @@ Following this goal, our project focused on analyzing bank data from different p
 Power BI, Excel
 
 
-## Resume / CV : :page_facing_up:
-[Download my CV](D:\Praca & praktyki\CV i listy motywacyjne\- WYSŁANE APLIKACJE -\- 2026\- GitHub/CV - Monika Sobieszczyk (eng).pdf)
+## Contact: :mailbox_with_mail:
+> 📢 I am open to data analytics and Power BI opportunities. Feel free to contact me!
+You can reach me via email: [monika.sobieszczyk@gmail.com](mailto:monika.sobieszczyk@gmail.com)  
+Connect with me on LinkedIn: [Monika LinkedIn](https://www.linkedin.com/in/monika-sobieszczyk-5ba0a871/)
+
+

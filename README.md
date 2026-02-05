@@ -49,6 +49,9 @@ The data set includes:
 - Create a tab for Higher Management to compare two Spanish brokers, enabling decisions on whether the smaller broker from Barcelona should take over the services in Madrid, or if the Madrid services should remain with the larger European broker.
 - Create a tab for Lower-level Management to monitor standard metrics (WBR, MBR) across all export countries.
 
+#### Tools / Skills
+Power BI, Excel
+
 ### >> Power BI Project 2: The Berka dataset analysis
 #### Data Source
 [Berka Dataset on Kaggle](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset?resource=download)
@@ -69,7 +72,8 @@ Following this goal, our project focused on analyzing bank data from different p
   - Regions with the most active customers
   - Types of cards used
   - Loans and other products held by customers
-
+#### Tools / Skills
+Power BI, Excel
 
 ## Resume / CV : :page_facing_up:
 

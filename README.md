@@ -33,7 +33,19 @@ other data analysis tools.
 
 ## Projects :bar_chart:
 
-### Project 1 – TBD
+### Power BI - Project 1: Car Parts EU – export analysis
+#### Data source:
+Simulated dataset for CarParts EU (2022-2025).
+
+The data set includes:
+- Basic information on CarParts EU exports from various EU countries to Great Britain
+- Offers and costs of two different brokers
+- Demurrage costs
+- Information on trailers affected by customs inspections
+
+#### Project Goal:
+- Create a tab for Higher Management to compare two Spanish brokers, enabling decisions on whether the smaller broker from Barcelona should take over the services in Madrid, or if the Madrid services should remain with the larger European broker.
+- Create a tab for Lower-level Management to monitor standard metrics (WBR, MBR) across all export countries.
 
 ### Project 2 – TBD
 
